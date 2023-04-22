@@ -72,8 +72,6 @@ function ProtectedRoute(props)
      </Routes>
     </TrendingContextProvider>
      </div>
-
-      
     </>
   );
 }
