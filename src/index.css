@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@1,300&family=Raleway&display=swap");
+body {
+  background-color: #131722;
+  font-family: "Montserrat Alternates", sans-serif;
+  color: #fff;
+}
+
+a, a:hover {
+  color: #fff !important;
+}
+
+.brdr {
+  height: 1px;
+  background-color: rgba(168, 168, 168, 0.2392156863);
+}
+
+.colr {
+  background-color: rgba(36, 186, 239, 0.6);
+}/*# sourceMappingURL=index.css.map */
