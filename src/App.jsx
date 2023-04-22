@@ -68,6 +68,7 @@ function ProtectedRoute(props)
       <Route path='details' element={<ProtectedRoute><Details/></ProtectedRoute>}></Route>
       <Route path='people' element={<ProtectedRoute><People/></ProtectedRoute>}></Route>
       <Route path='networks' element={<Networks/>}></Route>
+      <Route path='*' element={<Notfound/>}></Route>
      </Routes>
     </TrendingContextProvider>
      </div>
